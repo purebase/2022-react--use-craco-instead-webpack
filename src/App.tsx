@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Section from './pages/landing/Section';
+import Section from "@src/pages/landing/Section";
 
 function App() {
   return (
